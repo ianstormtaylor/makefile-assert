@@ -1,0 +1,16 @@
+{
+  "name": "makefile-assert",
+  "version": "0.0.1",
+  "description": "An easy way to assert that an environment variable is defined in your Makefiles.",
+  "repository": "git://github.com/ianstormtaylor/makefile-assert.git",
+  "license": "MIT",
+  "keywords": [
+    "assert",
+    "cli",
+    "environment",
+    "make",
+    "makefile",
+    "scripts",
+    "variable"
+  ]
+}
